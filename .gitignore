@@ -8,6 +8,7 @@
 # Images displayed in the public usage guide.
 !/screenshots/
 /screenshots/*
+!/screenshots/banner.png
 !/screenshots/main-window.png
 !/screenshots/character-editor.png
 !/screenshots/talent-tree.png

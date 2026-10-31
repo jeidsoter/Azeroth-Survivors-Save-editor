@@ -1,4 +1,5 @@
 # Azeroth Survivors Save Editor
+![Banner](screenshots/banner.png)
 
 A standalone Windows application for opening encrypted Azeroth Survivors saves, editing character and account settings, and exporting a new save. Everything is processed locally.
 
