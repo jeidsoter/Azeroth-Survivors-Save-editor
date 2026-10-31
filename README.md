@@ -5,6 +5,7 @@ A standalone Windows application for opening encrypted Azeroth Survivors saves, 
 ## Download and first use
 
 The executable is ready to run without installing a development environment.
+[⬇ Download for Windows](https://github.com/jeidsoter/Azeroth-Survivors-Save-editor/releases/latest)
 
 ### Download and start
 
